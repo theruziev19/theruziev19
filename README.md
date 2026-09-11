@@ -25,6 +25,9 @@
 
 ## 🚀 Featured Projects
 
+### 🛠️ [Telegram Mini App — Online Booking](https://github.com/theruziev19/animated-telegram)
+Full-stack booking system: Telegram WebApp, JavaScript, Google Apps Script, Google Sheets, API requests, validation, time-slot logic and concurrent booking protection.
+
 ### 🐧 [Linux Administration](https://github.com/theruziev19/D01_Linux-1)
 Ubuntu Server administration in a virtual machine: users, permissions, networking, SSH, processes, disks, logs and CRON.
 
