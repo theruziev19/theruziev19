@@ -25,17 +25,20 @@
 
 ## 🚀 Featured Projects
 
-### 🐧 Linux & Networking
-Practical projects covering Linux administration and network configuration, including SSH, TCP/IP, routing, DHCP, NAT, firewall rules and network diagnostics.
+### 🐧 [Linux Administration](https://github.com/theruziev19/D01_Linux-1)
+Ubuntu Server administration in a virtual machine: users, permissions, networking, SSH, processes, disks, logs and CRON.
 
-### 🐳 Docker & Nginx
-Containerized applications using Docker and Docker Compose, configured Nginx and worked with container security checks.
+### 🌐 [Linux Networking](https://github.com/theruziev19/DO2_LinuxNetwork-1)
+TCP/IP, subnetting, static routing, `ipcalc`, DHCP, NAT, `iptables`, `iperf3` and SSH tunnels across Linux virtual machines.
 
-### 🧪 SimpleBashUtils
-Implemented simplified versions of `cat` and `grep` in C with Makefile-based builds and testing.
+### 🐳 [Docker, Nginx & Compose](https://github.com/theruziev19/DO5_SimpleDocker.ID_356282-1)
+Docker images and containers, custom Dockerfiles, Nginx reverse proxy, FastCGI, Dockle security checks and Docker Compose.
 
-### 💈 ROOM 13
-Developed a responsive web project for a barbershop with service presentation and booking-related functionality.
+### 🧪 [Simple Bash Utils](https://github.com/theruziev19/C3_SimpleBashUtils-1)
+C11 implementations of `cat` and `grep` with Makefile builds, POSIX regex and integration testing.
+
+### 💈 [ROOM 13](https://github.com/theruziev19/ROOM-13)
+Responsive barbershop website built with HTML5, CSS3 and vanilla JavaScript.
 
 ---
 
@@ -58,3 +61,4 @@ I enjoy troubleshooting, learning new technologies and turning technical problem
 ## 📫 Contact
 
 - Email: **therustam@icloud.com**
+- GitHub: **[theruziev19](https://github.com/theruziev19)**
